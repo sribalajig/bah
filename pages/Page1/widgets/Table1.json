@@ -459,6 +459,7 @@
     "textSize": "0.875rem",
     "widgetId": "rfzcjyia86",
     "allowAddNewRow": true,
+    "enableServerSideFiltering": false,
     "minWidth": 450,
     "tableData": "{{Select_public_users1.data}}",
     "label": "Data",
